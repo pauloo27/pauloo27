@@ -14,7 +14,7 @@ https://pauloo27.dev
 
 <div>
   <a href="https://github.com/pauloo27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloo27&layout=compact&langs_count=10&theme=radical" />
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloo27&layout=compact&langs_count=10&theme=radical" />
   </a>
 </div>
 
