@@ -1,7 +1,5 @@
 # Paulo Eduardo 
 
-https://pauloo27.dev
-
 **Hi there 👋.**
 
 🇧🇷 I'm Brazilian.
